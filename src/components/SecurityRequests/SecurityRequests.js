@@ -15,7 +15,7 @@ export default class Dashboard extends Component {
                 </aside>
                 <div className="layout-main">
                     <div className="layout-header">
-                        <h1>Hello, Rain Zhang</h1>
+                        <h1>Hello, NAME_HERE</h1>
                     </div>
                     <div className="layout-container">
                         <WrapperSecReq />

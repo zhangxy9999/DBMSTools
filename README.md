@@ -1,7 +1,8 @@
 # DBMSTools
+### [Github Repo](https://github.com/zhangxy9999/DBMSTools)
 
-* Please make sure that you have the latest version of npm and node installed.
-* Please make sure that you are OUTSIDE OF RBC FIREWALL with a computer that has non-corporate/normal internet settings. npm and node are not able to download external packages from npm repository with corporate internet settings.
+* To set up the development environment, please make sure that you have the latest version of [npm](https://www.npmjs.com/) and [node](https://nodejs.org/en/) installed.
+* Please make sure that you are OUTSIDE OF RBC FIREWALL with a computer that has non-corporate/normal internet settings. npm and node are not able to connect and download external packages from npm repository with corporate internet settings.
 
 If you are running this app locally for the first time, go to the command line and run
 ```

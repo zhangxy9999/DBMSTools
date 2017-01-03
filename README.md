@@ -1,9 +1,9 @@
 # DBMSTools
 
 * Please make sure that you have the latest version of npm and node installed.
-* Please make sure that you are OUTSIDE RBC FIREWALL with a computer that has non-corporate/normal internet settings.
+* Please make sure that you are OUTSIDE OF RBC FIREWALL with a computer that has non-corporate/normal internet settings. npm and node are not able to download external packages from npm repository with corporate internet settings.
 
-If you are running this app locally for the first time, got to the command line and run
+If you are running this app locally for the first time, go to the command line and run
 ```
 npm install
 ```
